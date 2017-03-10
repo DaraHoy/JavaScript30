@@ -2,7 +2,7 @@
 
 # JavaScript30
 
-- [x] ~~JavaScript Drum Kit~~
+- [x] [~~JavaScript Drum Kit~~](https://github.com/DaraHoy/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 - [] JS and CSS Clock
 - [] CSS Variables
 - [] Array Cardio Day 1
